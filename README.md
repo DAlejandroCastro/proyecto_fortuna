@@ -5,7 +5,6 @@ Este proyecto es una aplicación web que simula las famosas **galletas de la for
 ## Funcionalidades
 
 - **Generación de Mensajes**: La aplicación generará mensajes aleatorios y los mostrará al usuario cuando "abra" una galleta virtual.
-- **Animación de Apertura**: Al hacer clic en una galleta, se animará su apertura para revelar el mensaje oculto.
 - **Diseño Atractivo**: Utilizaremos estilos CSS para darle un aspecto agradable y realista a nuestras galletas virtuales.
 
 ## Tecnologías Utilizadas
